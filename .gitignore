@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data and generated arrays
+data/raw/
+data/processed/
+data/**/*.mat
+data/**/*.npy
+data/**/*.npz
+data/**/*.csv
+!data/manifests/.gitkeep
+!data/README.md
+
+# Models and experiment outputs
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.joblib
+*.bin
+outputs/runs/**
+outputs/tables/**
+outputs/figures/**
+outputs/logs/**
+!outputs/runs/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/logs/.gitkeep
+
+# Local paper/source material
+*.docx
+*.pdf
+

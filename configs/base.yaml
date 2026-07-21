@@ -1,0 +1,32 @@
+project:
+  name: ctgsd
+  seed: 42
+
+data:
+  window_length: 2048
+  overlap_ratio: 0.5
+  split_ratios: [0.6, 0.2, 0.2]
+  split_before_windowing: true
+
+tstks:
+  analysis_window_size: 256
+  analysis_hop_size: 128
+  min_segment_size: 32
+  branch_overlap_ratio: 0.5
+  max_depth: 6
+  candidate_step: 2
+  ks_threshold: 1.36
+  variance_threshold: 0.5
+  branch_score: hybrid
+  min_distance: 30
+  peak_alignment_radius: 0
+
+features:
+  expected_dimension: 151
+  groups:
+    tstks: 20
+    wpt: 16
+    time: 10
+    frequency_statistics: 5
+    fft_bins: 100
+
