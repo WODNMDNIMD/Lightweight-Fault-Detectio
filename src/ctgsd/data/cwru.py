@@ -112,7 +112,7 @@ def discover_cwru_sources(
         records.append(
             SourceRecord(
                 source_id=f"cwru:{fault_code.lower()}:load{load}:de12k",
-                raw_path=str(path.resolve()),
+                raw_path=path.relative_to(data_root).as_posix(),
                 label=label,
                 condition_id=f"load_{load}",
                 sampling_rate=12000,

@@ -106,3 +106,58 @@ def split_sources_by_time(
             )
     return segments
 
+
+def split_sources_by_condition(
+    sources: Iterable[SourceRecord],
+    *,
+    validation_conditions: Iterable[str],
+    test_conditions: Iterable[str],
+) -> list[TimeSegment]:
+    """Assign complete source files by condition for cross-load evaluation.
+
+    Test and validation conditions are explicit. Every other condition is used
+    for training, so a held-out load can never contribute a training window.
+    """
+
+    validation = frozenset(validation_conditions)
+    test = frozenset(test_conditions)
+    if not validation or not test:
+        raise ValueError("validation_conditions and test_conditions cannot be empty")
+    overlap = validation & test
+    if overlap:
+        raise ValueError(f"validation and test conditions overlap: {sorted(overlap)}")
+
+    records = sorted(sources, key=lambda item: item.source_id)
+    known_conditions = {record.condition_id for record in records}
+    unknown = (validation | test) - known_conditions
+    if unknown:
+        raise ValueError(f"unknown held-out conditions: {sorted(unknown)}")
+
+    segments: list[TimeSegment] = []
+    counts: dict[SplitName, int] = {"train": 0, "val": 0, "test": 0}
+    for source in records:
+        split: SplitName
+        if source.condition_id in test:
+            split = "test"
+        elif source.condition_id in validation:
+            split = "val"
+        else:
+            split = "train"
+        counts[split] += 1
+        segments.append(
+            TimeSegment(
+                segment_id=f"{source.source_id}:{split}",
+                parent_source_id=source.source_id,
+                raw_path=source.raw_path,
+                label=source.label,
+                condition_id=source.condition_id,
+                sampling_rate=source.sampling_rate,
+                split=split,
+                start=0,
+                end=source.num_samples,
+            )
+        )
+    empty = [name for name, count in counts.items() if count == 0]
+    if empty:
+        raise ValueError(f"condition split produced empty subsets: {empty}")
+    return segments

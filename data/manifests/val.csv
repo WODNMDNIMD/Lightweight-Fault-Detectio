@@ -1,0 +1,881 @@
+sample_id,source_id,parent_source_id,condition_id,window_start,window_end,split,label,sampling_rate,raw_path
+cwru:b007:load0:de12k:val:000072000,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,72000,74048,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000073024,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,73024,75072,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000074048,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,74048,76096,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000075072,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,75072,77120,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000076096,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,76096,78144,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000077120,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,77120,79168,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000078144,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,78144,80192,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000079168,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,79168,81216,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000080192,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,80192,82240,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000081216,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,81216,83264,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000082240,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,82240,84288,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000083264,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,83264,85312,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000084288,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,84288,86336,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000085312,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,85312,87360,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000086336,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,86336,88384,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000087360,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,87360,89408,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000088384,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,88384,90432,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000089408,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,89408,91456,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000090432,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,90432,92480,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000091456,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,91456,93504,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000092480,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,92480,94528,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load0:de12k:val:000093504,cwru:b007:load0:de12k:val,cwru:b007:load0:de12k,load_0,93504,95552,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat
+cwru:b007:load1:de12k:val:000072000,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,72000,74048,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000073024,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,73024,75072,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000074048,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,74048,76096,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000075072,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,75072,77120,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000076096,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,76096,78144,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000077120,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,77120,79168,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000078144,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,78144,80192,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000079168,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,79168,81216,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000080192,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,80192,82240,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000081216,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,81216,83264,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000082240,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,82240,84288,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000083264,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,83264,85312,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000084288,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,84288,86336,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000085312,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,85312,87360,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000086336,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,86336,88384,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000087360,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,87360,89408,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000088384,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,88384,90432,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000089408,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,89408,91456,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000090432,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,90432,92480,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000091456,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,91456,93504,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000092480,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,92480,94528,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load1:de12k:val:000093504,cwru:b007:load1:de12k:val,cwru:b007:load1:de12k,load_1,93504,95552,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat
+cwru:b007:load2:de12k:val:000072000,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,72000,74048,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000073024,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,73024,75072,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000074048,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,74048,76096,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000075072,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,75072,77120,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000076096,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,76096,78144,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000077120,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,77120,79168,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000078144,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,78144,80192,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000079168,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,79168,81216,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000080192,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,80192,82240,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000081216,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,81216,83264,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000082240,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,82240,84288,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000083264,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,83264,85312,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000084288,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,84288,86336,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000085312,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,85312,87360,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000086336,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,86336,88384,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000087360,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,87360,89408,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000088384,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,88384,90432,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000089408,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,89408,91456,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000090432,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,90432,92480,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000091456,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,91456,93504,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000092480,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,92480,94528,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load2:de12k:val:000093504,cwru:b007:load2:de12k:val,cwru:b007:load2:de12k,load_2,93504,95552,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat
+cwru:b007:load3:de12k:val:000072000,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,72000,74048,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000073024,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,73024,75072,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000074048,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,74048,76096,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000075072,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,75072,77120,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000076096,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,76096,78144,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000077120,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,77120,79168,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000078144,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,78144,80192,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000079168,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,79168,81216,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000080192,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,80192,82240,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000081216,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,81216,83264,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000082240,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,82240,84288,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000083264,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,83264,85312,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000084288,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,84288,86336,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000085312,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,85312,87360,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000086336,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,86336,88384,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000087360,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,87360,89408,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000088384,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,88384,90432,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000089408,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,89408,91456,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000090432,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,90432,92480,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000091456,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,91456,93504,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000092480,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,92480,94528,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b007:load3:de12k:val:000093504,cwru:b007:load3:de12k:val,cwru:b007:load3:de12k,load_3,93504,95552,val,1,12000,12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat
+cwru:b014:load0:de12k:val:000072000,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,72000,74048,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000073024,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,73024,75072,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000074048,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,74048,76096,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000075072,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,75072,77120,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000076096,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,76096,78144,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000077120,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,77120,79168,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000078144,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,78144,80192,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000079168,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,79168,81216,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000080192,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,80192,82240,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000081216,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,81216,83264,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000082240,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,82240,84288,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000083264,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,83264,85312,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000084288,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,84288,86336,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000085312,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,85312,87360,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000086336,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,86336,88384,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000087360,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,87360,89408,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000088384,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,88384,90432,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000089408,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,89408,91456,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000090432,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,90432,92480,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000091456,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,91456,93504,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000092480,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,92480,94528,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load0:de12k:val:000093504,cwru:b014:load0:de12k:val,cwru:b014:load0:de12k,load_0,93504,95552,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat
+cwru:b014:load1:de12k:val:000072000,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,72000,74048,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000073024,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,73024,75072,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000074048,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,74048,76096,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000075072,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,75072,77120,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000076096,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,76096,78144,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000077120,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,77120,79168,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000078144,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,78144,80192,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000079168,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,79168,81216,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000080192,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,80192,82240,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000081216,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,81216,83264,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000082240,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,82240,84288,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000083264,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,83264,85312,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000084288,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,84288,86336,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000085312,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,85312,87360,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000086336,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,86336,88384,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000087360,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,87360,89408,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000088384,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,88384,90432,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000089408,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,89408,91456,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000090432,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,90432,92480,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000091456,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,91456,93504,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000092480,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,92480,94528,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load1:de12k:val:000093504,cwru:b014:load1:de12k:val,cwru:b014:load1:de12k,load_1,93504,95552,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat
+cwru:b014:load2:de12k:val:000072000,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,72000,74048,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000073024,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,73024,75072,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000074048,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,74048,76096,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000075072,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,75072,77120,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000076096,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,76096,78144,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000077120,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,77120,79168,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000078144,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,78144,80192,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000079168,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,79168,81216,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000080192,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,80192,82240,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000081216,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,81216,83264,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000082240,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,82240,84288,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000083264,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,83264,85312,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000084288,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,84288,86336,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000085312,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,85312,87360,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000086336,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,86336,88384,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000087360,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,87360,89408,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000088384,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,88384,90432,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000089408,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,89408,91456,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000090432,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,90432,92480,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000091456,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,91456,93504,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000092480,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,92480,94528,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load2:de12k:val:000093504,cwru:b014:load2:de12k:val,cwru:b014:load2:de12k,load_2,93504,95552,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat
+cwru:b014:load3:de12k:val:000072000,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,72000,74048,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000073024,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,73024,75072,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000074048,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,74048,76096,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000075072,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,75072,77120,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000076096,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,76096,78144,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000077120,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,77120,79168,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000078144,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,78144,80192,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000079168,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,79168,81216,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000080192,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,80192,82240,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000081216,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,81216,83264,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000082240,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,82240,84288,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000083264,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,83264,85312,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000084288,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,84288,86336,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000085312,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,85312,87360,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000086336,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,86336,88384,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000087360,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,87360,89408,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000088384,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,88384,90432,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000089408,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,89408,91456,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000090432,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,90432,92480,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000091456,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,91456,93504,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000092480,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,92480,94528,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b014:load3:de12k:val:000093504,cwru:b014:load3:de12k:val,cwru:b014:load3:de12k,load_3,93504,95552,val,2,12000,12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat
+cwru:b021:load0:de12k:val:000072000,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,72000,74048,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000073024,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,73024,75072,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000074048,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,74048,76096,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000075072,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,75072,77120,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000076096,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,76096,78144,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000077120,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,77120,79168,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000078144,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,78144,80192,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000079168,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,79168,81216,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000080192,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,80192,82240,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000081216,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,81216,83264,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000082240,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,82240,84288,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000083264,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,83264,85312,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000084288,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,84288,86336,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000085312,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,85312,87360,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000086336,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,86336,88384,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000087360,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,87360,89408,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000088384,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,88384,90432,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000089408,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,89408,91456,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000090432,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,90432,92480,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000091456,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,91456,93504,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000092480,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,92480,94528,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load0:de12k:val:000093504,cwru:b021:load0:de12k:val,cwru:b021:load0:de12k,load_0,93504,95552,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat
+cwru:b021:load1:de12k:val:000072000,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,72000,74048,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000073024,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,73024,75072,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000074048,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,74048,76096,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000075072,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,75072,77120,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000076096,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,76096,78144,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000077120,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,77120,79168,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000078144,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,78144,80192,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000079168,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,79168,81216,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000080192,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,80192,82240,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000081216,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,81216,83264,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000082240,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,82240,84288,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000083264,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,83264,85312,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000084288,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,84288,86336,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000085312,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,85312,87360,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000086336,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,86336,88384,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000087360,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,87360,89408,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000088384,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,88384,90432,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000089408,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,89408,91456,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000090432,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,90432,92480,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000091456,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,91456,93504,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000092480,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,92480,94528,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load1:de12k:val:000093504,cwru:b021:load1:de12k:val,cwru:b021:load1:de12k,load_1,93504,95552,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat
+cwru:b021:load2:de12k:val:000072000,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,72000,74048,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000073024,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,73024,75072,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000074048,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,74048,76096,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000075072,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,75072,77120,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000076096,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,76096,78144,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000077120,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,77120,79168,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000078144,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,78144,80192,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000079168,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,79168,81216,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000080192,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,80192,82240,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000081216,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,81216,83264,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000082240,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,82240,84288,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000083264,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,83264,85312,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000084288,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,84288,86336,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000085312,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,85312,87360,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000086336,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,86336,88384,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000087360,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,87360,89408,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000088384,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,88384,90432,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000089408,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,89408,91456,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000090432,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,90432,92480,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000091456,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,91456,93504,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000092480,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,92480,94528,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load2:de12k:val:000093504,cwru:b021:load2:de12k:val,cwru:b021:load2:de12k,load_2,93504,95552,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat
+cwru:b021:load3:de12k:val:000072000,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,72000,74048,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000073024,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,73024,75072,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000074048,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,74048,76096,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000075072,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,75072,77120,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000076096,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,76096,78144,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000077120,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,77120,79168,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000078144,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,78144,80192,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000079168,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,79168,81216,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000080192,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,80192,82240,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000081216,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,81216,83264,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000082240,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,82240,84288,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000083264,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,83264,85312,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000084288,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,84288,86336,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000085312,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,85312,87360,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000086336,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,86336,88384,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000087360,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,87360,89408,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000088384,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,88384,90432,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000089408,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,89408,91456,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000090432,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,90432,92480,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000091456,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,91456,93504,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000092480,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,92480,94528,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:b021:load3:de12k:val:000093504,cwru:b021:load3:de12k:val,cwru:b021:load3:de12k,load_3,93504,95552,val,3,12000,12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat
+cwru:ir007:load0:de12k:val:000072000,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,72000,74048,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000073024,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,73024,75072,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000074048,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,74048,76096,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000075072,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,75072,77120,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000076096,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,76096,78144,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000077120,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,77120,79168,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000078144,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,78144,80192,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000079168,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,79168,81216,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000080192,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,80192,82240,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000081216,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,81216,83264,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000082240,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,82240,84288,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000083264,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,83264,85312,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000084288,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,84288,86336,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000085312,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,85312,87360,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000086336,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,86336,88384,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000087360,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,87360,89408,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000088384,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,88384,90432,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000089408,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,89408,91456,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000090432,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,90432,92480,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000091456,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,91456,93504,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000092480,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,92480,94528,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load0:de12k:val:000093504,cwru:ir007:load0:de12k:val,cwru:ir007:load0:de12k,load_0,93504,95552,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat
+cwru:ir007:load1:de12k:val:000072000,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,72000,74048,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000073024,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,73024,75072,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000074048,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,74048,76096,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000075072,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,75072,77120,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000076096,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,76096,78144,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000077120,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,77120,79168,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000078144,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,78144,80192,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000079168,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,79168,81216,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000080192,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,80192,82240,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000081216,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,81216,83264,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000082240,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,82240,84288,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000083264,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,83264,85312,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000084288,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,84288,86336,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000085312,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,85312,87360,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000086336,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,86336,88384,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000087360,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,87360,89408,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000088384,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,88384,90432,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000089408,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,89408,91456,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000090432,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,90432,92480,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000091456,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,91456,93504,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000092480,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,92480,94528,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load1:de12k:val:000093504,cwru:ir007:load1:de12k:val,cwru:ir007:load1:de12k,load_1,93504,95552,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat
+cwru:ir007:load2:de12k:val:000072000,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,72000,74048,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000073024,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,73024,75072,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000074048,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,74048,76096,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000075072,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,75072,77120,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000076096,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,76096,78144,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000077120,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,77120,79168,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000078144,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,78144,80192,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000079168,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,79168,81216,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000080192,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,80192,82240,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000081216,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,81216,83264,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000082240,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,82240,84288,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000083264,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,83264,85312,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000084288,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,84288,86336,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000085312,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,85312,87360,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000086336,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,86336,88384,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000087360,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,87360,89408,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000088384,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,88384,90432,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000089408,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,89408,91456,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000090432,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,90432,92480,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000091456,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,91456,93504,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000092480,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,92480,94528,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load2:de12k:val:000093504,cwru:ir007:load2:de12k:val,cwru:ir007:load2:de12k,load_2,93504,95552,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat
+cwru:ir007:load3:de12k:val:000072000,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,72000,74048,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000073024,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,73024,75072,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000074048,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,74048,76096,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000075072,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,75072,77120,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000076096,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,76096,78144,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000077120,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,77120,79168,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000078144,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,78144,80192,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000079168,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,79168,81216,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000080192,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,80192,82240,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000081216,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,81216,83264,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000082240,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,82240,84288,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000083264,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,83264,85312,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000084288,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,84288,86336,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000085312,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,85312,87360,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000086336,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,86336,88384,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000087360,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,87360,89408,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000088384,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,88384,90432,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000089408,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,89408,91456,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000090432,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,90432,92480,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000091456,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,91456,93504,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000092480,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,92480,94528,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir007:load3:de12k:val:000093504,cwru:ir007:load3:de12k:val,cwru:ir007:load3:de12k,load_3,93504,95552,val,4,12000,12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat
+cwru:ir014:load0:de12k:val:000072000,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,72000,74048,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000073024,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,73024,75072,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000074048,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,74048,76096,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000075072,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,75072,77120,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000076096,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,76096,78144,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000077120,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,77120,79168,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000078144,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,78144,80192,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000079168,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,79168,81216,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000080192,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,80192,82240,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000081216,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,81216,83264,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000082240,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,82240,84288,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000083264,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,83264,85312,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000084288,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,84288,86336,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000085312,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,85312,87360,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000086336,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,86336,88384,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000087360,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,87360,89408,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000088384,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,88384,90432,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000089408,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,89408,91456,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000090432,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,90432,92480,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000091456,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,91456,93504,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000092480,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,92480,94528,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load0:de12k:val:000093504,cwru:ir014:load0:de12k:val,cwru:ir014:load0:de12k,load_0,93504,95552,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat
+cwru:ir014:load1:de12k:val:000072000,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,72000,74048,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000073024,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,73024,75072,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000074048,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,74048,76096,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000075072,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,75072,77120,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000076096,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,76096,78144,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000077120,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,77120,79168,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000078144,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,78144,80192,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000079168,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,79168,81216,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000080192,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,80192,82240,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000081216,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,81216,83264,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000082240,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,82240,84288,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000083264,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,83264,85312,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000084288,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,84288,86336,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000085312,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,85312,87360,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000086336,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,86336,88384,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000087360,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,87360,89408,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000088384,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,88384,90432,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000089408,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,89408,91456,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000090432,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,90432,92480,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000091456,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,91456,93504,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000092480,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,92480,94528,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load1:de12k:val:000093504,cwru:ir014:load1:de12k:val,cwru:ir014:load1:de12k,load_1,93504,95552,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat
+cwru:ir014:load2:de12k:val:000072000,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,72000,74048,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000073024,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,73024,75072,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000074048,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,74048,76096,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000075072,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,75072,77120,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000076096,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,76096,78144,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000077120,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,77120,79168,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000078144,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,78144,80192,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000079168,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,79168,81216,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000080192,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,80192,82240,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000081216,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,81216,83264,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000082240,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,82240,84288,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000083264,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,83264,85312,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000084288,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,84288,86336,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000085312,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,85312,87360,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000086336,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,86336,88384,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000087360,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,87360,89408,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000088384,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,88384,90432,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000089408,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,89408,91456,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000090432,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,90432,92480,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000091456,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,91456,93504,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000092480,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,92480,94528,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load2:de12k:val:000093504,cwru:ir014:load2:de12k:val,cwru:ir014:load2:de12k,load_2,93504,95552,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat
+cwru:ir014:load3:de12k:val:000072000,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,72000,74048,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000073024,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,73024,75072,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000074048,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,74048,76096,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000075072,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,75072,77120,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000076096,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,76096,78144,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000077120,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,77120,79168,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000078144,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,78144,80192,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000079168,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,79168,81216,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000080192,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,80192,82240,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000081216,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,81216,83264,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000082240,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,82240,84288,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000083264,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,83264,85312,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000084288,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,84288,86336,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000085312,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,85312,87360,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000086336,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,86336,88384,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000087360,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,87360,89408,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000088384,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,88384,90432,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000089408,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,89408,91456,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000090432,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,90432,92480,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000091456,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,91456,93504,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000092480,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,92480,94528,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir014:load3:de12k:val:000093504,cwru:ir014:load3:de12k:val,cwru:ir014:load3:de12k,load_3,93504,95552,val,5,12000,12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat
+cwru:ir021:load0:de12k:val:000072000,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,72000,74048,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000073024,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,73024,75072,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000074048,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,74048,76096,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000075072,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,75072,77120,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000076096,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,76096,78144,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000077120,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,77120,79168,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000078144,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,78144,80192,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000079168,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,79168,81216,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000080192,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,80192,82240,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000081216,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,81216,83264,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000082240,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,82240,84288,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000083264,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,83264,85312,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000084288,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,84288,86336,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000085312,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,85312,87360,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000086336,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,86336,88384,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000087360,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,87360,89408,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000088384,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,88384,90432,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000089408,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,89408,91456,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000090432,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,90432,92480,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000091456,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,91456,93504,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000092480,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,92480,94528,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load0:de12k:val:000093504,cwru:ir021:load0:de12k:val,cwru:ir021:load0:de12k,load_0,93504,95552,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat
+cwru:ir021:load1:de12k:val:000072000,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,72000,74048,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000073024,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,73024,75072,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000074048,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,74048,76096,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000075072,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,75072,77120,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000076096,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,76096,78144,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000077120,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,77120,79168,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000078144,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,78144,80192,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000079168,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,79168,81216,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000080192,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,80192,82240,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000081216,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,81216,83264,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000082240,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,82240,84288,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000083264,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,83264,85312,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000084288,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,84288,86336,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000085312,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,85312,87360,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000086336,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,86336,88384,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000087360,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,87360,89408,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000088384,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,88384,90432,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000089408,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,89408,91456,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000090432,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,90432,92480,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000091456,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,91456,93504,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000092480,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,92480,94528,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load1:de12k:val:000093504,cwru:ir021:load1:de12k:val,cwru:ir021:load1:de12k,load_1,93504,95552,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat
+cwru:ir021:load2:de12k:val:000072000,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,72000,74048,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000073024,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,73024,75072,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000074048,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,74048,76096,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000075072,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,75072,77120,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000076096,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,76096,78144,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000077120,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,77120,79168,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000078144,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,78144,80192,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000079168,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,79168,81216,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000080192,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,80192,82240,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000081216,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,81216,83264,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000082240,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,82240,84288,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000083264,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,83264,85312,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000084288,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,84288,86336,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000085312,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,85312,87360,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000086336,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,86336,88384,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000087360,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,87360,89408,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000088384,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,88384,90432,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000089408,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,89408,91456,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000090432,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,90432,92480,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000091456,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,91456,93504,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000092480,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,92480,94528,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load2:de12k:val:000093504,cwru:ir021:load2:de12k:val,cwru:ir021:load2:de12k,load_2,93504,95552,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat
+cwru:ir021:load3:de12k:val:000072000,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,72000,74048,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000073024,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,73024,75072,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000074048,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,74048,76096,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000075072,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,75072,77120,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000076096,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,76096,78144,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000077120,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,77120,79168,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000078144,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,78144,80192,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000079168,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,79168,81216,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000080192,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,80192,82240,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000081216,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,81216,83264,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000082240,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,82240,84288,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000083264,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,83264,85312,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000084288,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,84288,86336,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000085312,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,85312,87360,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000086336,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,86336,88384,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000087360,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,87360,89408,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000088384,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,88384,90432,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000089408,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,89408,91456,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000090432,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,90432,92480,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000091456,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,91456,93504,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000092480,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,92480,94528,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:ir021:load3:de12k:val:000093504,cwru:ir021:load3:de12k:val,cwru:ir021:load3:de12k,load_3,93504,95552,val,6,12000,12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat
+cwru:normal:load0:de12k:val:000072000,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,72000,74048,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000073024,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,73024,75072,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000074048,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,74048,76096,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000075072,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,75072,77120,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000076096,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,76096,78144,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000077120,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,77120,79168,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000078144,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,78144,80192,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000079168,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,79168,81216,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000080192,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,80192,82240,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000081216,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,81216,83264,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000082240,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,82240,84288,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000083264,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,83264,85312,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000084288,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,84288,86336,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000085312,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,85312,87360,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000086336,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,86336,88384,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000087360,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,87360,89408,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000088384,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,88384,90432,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000089408,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,89408,91456,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000090432,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,90432,92480,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000091456,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,91456,93504,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000092480,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,92480,94528,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load0:de12k:val:000093504,cwru:normal:load0:de12k:val,cwru:normal:load0:de12k,load_0,93504,95552,val,0,12000,Normal Baseline/normal_0.mat
+cwru:normal:load1:de12k:val:000072000,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,72000,74048,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000073024,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,73024,75072,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000074048,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,74048,76096,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000075072,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,75072,77120,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000076096,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,76096,78144,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000077120,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,77120,79168,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000078144,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,78144,80192,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000079168,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,79168,81216,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000080192,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,80192,82240,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000081216,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,81216,83264,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000082240,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,82240,84288,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000083264,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,83264,85312,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000084288,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,84288,86336,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000085312,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,85312,87360,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000086336,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,86336,88384,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000087360,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,87360,89408,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000088384,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,88384,90432,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000089408,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,89408,91456,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000090432,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,90432,92480,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000091456,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,91456,93504,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000092480,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,92480,94528,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load1:de12k:val:000093504,cwru:normal:load1:de12k:val,cwru:normal:load1:de12k,load_1,93504,95552,val,0,12000,Normal Baseline/normal_1.mat
+cwru:normal:load2:de12k:val:000072000,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,72000,74048,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000073024,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,73024,75072,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000074048,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,74048,76096,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000075072,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,75072,77120,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000076096,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,76096,78144,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000077120,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,77120,79168,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000078144,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,78144,80192,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000079168,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,79168,81216,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000080192,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,80192,82240,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000081216,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,81216,83264,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000082240,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,82240,84288,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000083264,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,83264,85312,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000084288,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,84288,86336,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000085312,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,85312,87360,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000086336,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,86336,88384,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000087360,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,87360,89408,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000088384,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,88384,90432,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000089408,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,89408,91456,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000090432,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,90432,92480,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000091456,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,91456,93504,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000092480,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,92480,94528,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load2:de12k:val:000093504,cwru:normal:load2:de12k:val,cwru:normal:load2:de12k,load_2,93504,95552,val,0,12000,Normal Baseline/normal_2.mat
+cwru:normal:load3:de12k:val:000072000,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,72000,74048,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000073024,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,73024,75072,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000074048,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,74048,76096,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000075072,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,75072,77120,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000076096,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,76096,78144,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000077120,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,77120,79168,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000078144,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,78144,80192,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000079168,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,79168,81216,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000080192,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,80192,82240,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000081216,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,81216,83264,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000082240,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,82240,84288,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000083264,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,83264,85312,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000084288,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,84288,86336,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000085312,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,85312,87360,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000086336,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,86336,88384,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000087360,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,87360,89408,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000088384,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,88384,90432,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000089408,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,89408,91456,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000090432,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,90432,92480,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000091456,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,91456,93504,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000092480,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,92480,94528,val,0,12000,Normal Baseline/normal_3.mat
+cwru:normal:load3:de12k:val:000093504,cwru:normal:load3:de12k:val,cwru:normal:load3:de12k,load_3,93504,95552,val,0,12000,Normal Baseline/normal_3.mat
+cwru:or007:load0:de12k:val:000072000,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,72000,74048,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000073024,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,73024,75072,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000074048,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,74048,76096,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000075072,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,75072,77120,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000076096,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,76096,78144,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000077120,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,77120,79168,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000078144,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,78144,80192,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000079168,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,79168,81216,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000080192,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,80192,82240,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000081216,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,81216,83264,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000082240,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,82240,84288,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000083264,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,83264,85312,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000084288,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,84288,86336,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000085312,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,85312,87360,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000086336,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,86336,88384,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000087360,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,87360,89408,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000088384,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,88384,90432,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000089408,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,89408,91456,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000090432,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,90432,92480,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000091456,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,91456,93504,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000092480,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,92480,94528,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load0:de12k:val:000093504,cwru:or007:load0:de12k:val,cwru:or007:load0:de12k,load_0,93504,95552,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat
+cwru:or007:load1:de12k:val:000072000,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,72000,74048,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000073024,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,73024,75072,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000074048,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,74048,76096,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000075072,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,75072,77120,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000076096,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,76096,78144,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000077120,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,77120,79168,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000078144,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,78144,80192,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000079168,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,79168,81216,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000080192,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,80192,82240,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000081216,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,81216,83264,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000082240,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,82240,84288,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000083264,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,83264,85312,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000084288,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,84288,86336,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000085312,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,85312,87360,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000086336,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,86336,88384,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000087360,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,87360,89408,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000088384,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,88384,90432,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000089408,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,89408,91456,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000090432,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,90432,92480,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000091456,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,91456,93504,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000092480,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,92480,94528,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load1:de12k:val:000093504,cwru:or007:load1:de12k:val,cwru:or007:load1:de12k,load_1,93504,95552,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat
+cwru:or007:load2:de12k:val:000072000,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,72000,74048,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000073024,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,73024,75072,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000074048,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,74048,76096,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000075072,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,75072,77120,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000076096,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,76096,78144,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000077120,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,77120,79168,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000078144,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,78144,80192,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000079168,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,79168,81216,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000080192,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,80192,82240,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000081216,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,81216,83264,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000082240,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,82240,84288,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000083264,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,83264,85312,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000084288,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,84288,86336,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000085312,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,85312,87360,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000086336,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,86336,88384,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000087360,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,87360,89408,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000088384,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,88384,90432,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000089408,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,89408,91456,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000090432,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,90432,92480,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000091456,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,91456,93504,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000092480,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,92480,94528,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load2:de12k:val:000093504,cwru:or007:load2:de12k:val,cwru:or007:load2:de12k,load_2,93504,95552,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat
+cwru:or007:load3:de12k:val:000072000,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,72000,74048,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000073024,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,73024,75072,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000074048,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,74048,76096,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000075072,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,75072,77120,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000076096,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,76096,78144,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000077120,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,77120,79168,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000078144,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,78144,80192,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000079168,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,79168,81216,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000080192,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,80192,82240,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000081216,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,81216,83264,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000082240,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,82240,84288,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000083264,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,83264,85312,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000084288,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,84288,86336,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000085312,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,85312,87360,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000086336,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,86336,88384,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000087360,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,87360,89408,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000088384,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,88384,90432,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000089408,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,89408,91456,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000090432,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,90432,92480,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000091456,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,91456,93504,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000092480,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,92480,94528,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or007:load3:de12k:val:000093504,cwru:or007:load3:de12k:val,cwru:or007:load3:de12k,load_3,93504,95552,val,7,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat
+cwru:or014:load0:de12k:val:000072000,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,72000,74048,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000073024,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,73024,75072,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000074048,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,74048,76096,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000075072,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,75072,77120,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000076096,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,76096,78144,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000077120,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,77120,79168,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000078144,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,78144,80192,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000079168,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,79168,81216,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000080192,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,80192,82240,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000081216,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,81216,83264,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000082240,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,82240,84288,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000083264,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,83264,85312,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000084288,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,84288,86336,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000085312,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,85312,87360,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000086336,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,86336,88384,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000087360,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,87360,89408,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000088384,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,88384,90432,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000089408,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,89408,91456,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000090432,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,90432,92480,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000091456,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,91456,93504,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000092480,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,92480,94528,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load0:de12k:val:000093504,cwru:or014:load0:de12k:val,cwru:or014:load0:de12k,load_0,93504,95552,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat
+cwru:or014:load1:de12k:val:000072000,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,72000,74048,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000073024,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,73024,75072,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000074048,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,74048,76096,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000075072,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,75072,77120,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000076096,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,76096,78144,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000077120,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,77120,79168,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000078144,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,78144,80192,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000079168,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,79168,81216,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000080192,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,80192,82240,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000081216,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,81216,83264,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000082240,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,82240,84288,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000083264,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,83264,85312,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000084288,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,84288,86336,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000085312,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,85312,87360,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000086336,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,86336,88384,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000087360,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,87360,89408,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000088384,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,88384,90432,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000089408,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,89408,91456,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000090432,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,90432,92480,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000091456,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,91456,93504,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000092480,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,92480,94528,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load1:de12k:val:000093504,cwru:or014:load1:de12k:val,cwru:or014:load1:de12k,load_1,93504,95552,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat
+cwru:or014:load2:de12k:val:000072000,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,72000,74048,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000073024,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,73024,75072,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000074048,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,74048,76096,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000075072,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,75072,77120,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000076096,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,76096,78144,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000077120,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,77120,79168,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000078144,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,78144,80192,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000079168,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,79168,81216,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000080192,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,80192,82240,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000081216,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,81216,83264,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000082240,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,82240,84288,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000083264,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,83264,85312,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000084288,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,84288,86336,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000085312,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,85312,87360,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000086336,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,86336,88384,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000087360,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,87360,89408,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000088384,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,88384,90432,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000089408,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,89408,91456,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000090432,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,90432,92480,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000091456,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,91456,93504,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000092480,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,92480,94528,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load2:de12k:val:000093504,cwru:or014:load2:de12k:val,cwru:or014:load2:de12k,load_2,93504,95552,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat
+cwru:or014:load3:de12k:val:000072000,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,72000,74048,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000073024,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,73024,75072,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000074048,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,74048,76096,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000075072,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,75072,77120,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000076096,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,76096,78144,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000077120,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,77120,79168,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000078144,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,78144,80192,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000079168,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,79168,81216,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000080192,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,80192,82240,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000081216,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,81216,83264,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000082240,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,82240,84288,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000083264,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,83264,85312,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000084288,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,84288,86336,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000085312,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,85312,87360,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000086336,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,86336,88384,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000087360,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,87360,89408,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000088384,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,88384,90432,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000089408,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,89408,91456,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000090432,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,90432,92480,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000091456,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,91456,93504,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000092480,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,92480,94528,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or014:load3:de12k:val:000093504,cwru:or014:load3:de12k:val,cwru:or014:load3:de12k,load_3,93504,95552,val,8,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat
+cwru:or021:load0:de12k:val:000072000,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,72000,74048,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000073024,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,73024,75072,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000074048,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,74048,76096,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000075072,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,75072,77120,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000076096,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,76096,78144,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000077120,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,77120,79168,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000078144,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,78144,80192,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000079168,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,79168,81216,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000080192,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,80192,82240,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000081216,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,81216,83264,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000082240,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,82240,84288,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000083264,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,83264,85312,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000084288,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,84288,86336,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000085312,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,85312,87360,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000086336,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,86336,88384,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000087360,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,87360,89408,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000088384,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,88384,90432,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000089408,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,89408,91456,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000090432,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,90432,92480,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000091456,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,91456,93504,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000092480,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,92480,94528,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load0:de12k:val:000093504,cwru:or021:load0:de12k:val,cwru:or021:load0:de12k,load_0,93504,95552,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat
+cwru:or021:load1:de12k:val:000072000,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,72000,74048,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000073024,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,73024,75072,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000074048,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,74048,76096,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000075072,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,75072,77120,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000076096,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,76096,78144,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000077120,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,77120,79168,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000078144,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,78144,80192,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000079168,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,79168,81216,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000080192,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,80192,82240,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000081216,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,81216,83264,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000082240,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,82240,84288,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000083264,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,83264,85312,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000084288,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,84288,86336,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000085312,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,85312,87360,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000086336,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,86336,88384,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000087360,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,87360,89408,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000088384,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,88384,90432,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000089408,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,89408,91456,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000090432,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,90432,92480,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000091456,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,91456,93504,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000092480,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,92480,94528,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load1:de12k:val:000093504,cwru:or021:load1:de12k:val,cwru:or021:load1:de12k,load_1,93504,95552,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat
+cwru:or021:load2:de12k:val:000072000,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,72000,74048,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000073024,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,73024,75072,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000074048,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,74048,76096,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000075072,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,75072,77120,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000076096,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,76096,78144,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000077120,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,77120,79168,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000078144,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,78144,80192,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000079168,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,79168,81216,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000080192,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,80192,82240,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000081216,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,81216,83264,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000082240,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,82240,84288,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000083264,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,83264,85312,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000084288,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,84288,86336,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000085312,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,85312,87360,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000086336,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,86336,88384,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000087360,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,87360,89408,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000088384,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,88384,90432,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000089408,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,89408,91456,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000090432,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,90432,92480,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000091456,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,91456,93504,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000092480,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,92480,94528,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load2:de12k:val:000093504,cwru:or021:load2:de12k:val,cwru:or021:load2:de12k,load_2,93504,95552,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat
+cwru:or021:load3:de12k:val:000072000,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,72000,74048,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000073024,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,73024,75072,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000074048,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,74048,76096,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000075072,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,75072,77120,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000076096,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,76096,78144,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000077120,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,77120,79168,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000078144,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,78144,80192,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000079168,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,79168,81216,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000080192,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,80192,82240,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000081216,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,81216,83264,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000082240,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,82240,84288,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000083264,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,83264,85312,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000084288,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,84288,86336,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000085312,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,85312,87360,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000086336,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,86336,88384,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000087360,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,87360,89408,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000088384,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,88384,90432,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000089408,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,89408,91456,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000090432,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,90432,92480,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000091456,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,91456,93504,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000092480,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,92480,94528,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat
+cwru:or021:load3:de12k:val:000093504,cwru:or021:load3:de12k:val,cwru:or021:load3:de12k,load_3,93504,95552,val,9,12000,12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat

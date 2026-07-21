@@ -2,7 +2,10 @@
 
 from __future__ import annotations
 
+import csv
 from collections import defaultdict
+from dataclasses import fields
+from pathlib import Path
 from typing import Iterable
 
 from .schema import PairedSampleMetadata
@@ -88,3 +91,49 @@ def validate_manifest(manifest: Iterable[PairedSampleMetadata]) -> None:
                         f"{left.sample_id} vs {right.sample_id}"
                     )
 
+
+def write_split_manifests(
+    manifest: Iterable[PairedSampleMetadata], output_dir: str | Path
+) -> dict[str, Path]:
+    """Write deterministic train/val/test CSV files after validation."""
+
+    records = list(manifest)
+    validate_manifest(records)
+    destination = Path(output_dir)
+    destination.mkdir(parents=True, exist_ok=True)
+    field_names = [field.name for field in fields(PairedSampleMetadata)]
+    paths: dict[str, Path] = {}
+    for split in ("train", "val", "test"):
+        path = destination / f"{split}.csv"
+        with path.open("w", encoding="utf-8", newline="") as handle:
+            writer = csv.DictWriter(handle, fieldnames=field_names)
+            writer.writeheader()
+            for record in records:
+                if record.split == split:
+                    writer.writerow({name: getattr(record, name) for name in field_names})
+        paths[split] = path
+    return paths
+
+
+def read_manifest_csv(path: str | Path) -> list[PairedSampleMetadata]:
+    """Read one manifest CSV with explicit numeric conversion and validation."""
+
+    records: list[PairedSampleMetadata] = []
+    with Path(path).open("r", encoding="utf-8", newline="") as handle:
+        for row in csv.DictReader(handle):
+            records.append(
+                PairedSampleMetadata(
+                    sample_id=row["sample_id"],
+                    source_id=row["source_id"],
+                    parent_source_id=row["parent_source_id"],
+                    condition_id=row["condition_id"],
+                    window_start=int(row["window_start"]),
+                    window_end=int(row["window_end"]),
+                    split=row["split"],  # type: ignore[arg-type]
+                    label=int(row["label"]),
+                    sampling_rate=int(row["sampling_rate"]),
+                    raw_path=row["raw_path"],
+                )
+            )
+    validate_manifest(records)
+    return records

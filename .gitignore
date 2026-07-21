@@ -22,6 +22,9 @@ data/**/*.npy
 data/**/*.npz
 data/**/*.csv
 !data/manifests/.gitkeep
+!data/manifests/train.csv
+!data/manifests/val.csv
+!data/manifests/test.csv
 !data/README.md
 
 # Models and experiment outputs
@@ -45,4 +48,3 @@ outputs/logs/**
 # Local paper/source material
 *.docx
 *.pdf
-
