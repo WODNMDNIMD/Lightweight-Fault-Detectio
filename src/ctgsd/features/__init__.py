@@ -5,6 +5,7 @@ from .tstks import (
     SlidingTSTKSDetector,
     TSTKSConfig,
     TSTKS_FEATURE_NAMES,
+    calibrate_ks_threshold,
     extract_tstks_features,
 )
 
@@ -13,6 +14,6 @@ __all__ = [
     "SlidingTSTKSDetector",
     "TSTKSConfig",
     "TSTKS_FEATURE_NAMES",
+    "calibrate_ks_threshold",
     "extract_tstks_features",
 ]
-

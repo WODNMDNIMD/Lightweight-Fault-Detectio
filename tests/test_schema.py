@@ -9,9 +9,11 @@ class PairedSampleMetadataTest(unittest.TestCase):
     def test_valid_metadata(self) -> None:
         metadata = PairedSampleMetadata(
             sample_id="cwru:file-1:0",
-            source_id="file-1",
+            source_id="file-1:train",
+            parent_source_id="file-1",
             condition_id="load-0",
             window_start=0,
+            window_end=2048,
             split="train",
             label=1,
             sampling_rate=12000,
@@ -23,9 +25,11 @@ class PairedSampleMetadataTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             PairedSampleMetadata(
                 sample_id="bad",
-                source_id="source",
+                source_id="source:test",
+                parent_source_id="source",
                 condition_id="condition",
                 window_start=-1,
+                window_end=2047,
                 split="test",
                 label=0,
                 sampling_rate=12000,

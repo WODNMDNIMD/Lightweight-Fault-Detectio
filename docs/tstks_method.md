@@ -34,10 +34,14 @@ not claim byte-for-byte reproduction of the authors' unpublished program.
 - Adjacent child branches overlap by 50% of a child width.
 - Branch navigation can use scaled KS, normalized variance fluctuation, or a
   hybrid of both. `hybrid` is the default; final acceptance always uses KS.
-- `1.36` is the conventional asymptotic two-sample KS critical value for an
-  approximate 5% level. It is a configurable starting value, not a claimed
-  dataset-optimal threshold. A final threshold must be calibrated on training
-  data and selected with validation data only.
+- `1.36` is the conventional asymptotic two-sample KS critical value for one
+  pre-specified split, but it is not valid after scanning many windows and
+  selecting the largest candidate. In a fixed-seed check of 100 stationary
+  Gaussian signals, using 1.36 caused 84 signals to contain at least one false
+  candidate; 2.0 reduced that count to 2. Therefore 2.0 is the conservative
+  uncalibrated default, and `calibrate_ks_threshold()` is provided to estimate
+  a record-level threshold from stationary **training-only** reference signals.
+  The final threshold and calibration sample IDs must be saved with each run.
 - Optional peak alignment is disabled by default because it is not specified
   in the supplied paper. It remains configurable for a documented ablation.
 
@@ -55,4 +59,3 @@ ECDF update are separate work items.
 Within the fault-diagnosis paper, these outputs are described as **local
 distribution-change statistical features**. They are not presented as verified
 ground-truth fault onset times unless an external onset annotation exists.
-

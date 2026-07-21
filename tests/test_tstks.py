@@ -8,6 +8,7 @@ from ctgsd.features.tstks import (
     SlidingTSTKSDetector,
     TSTKSConfig,
     TSTKS_FEATURE_NAMES,
+    calibrate_ks_threshold,
     extract_tstks_features,
 )
 
@@ -69,7 +70,13 @@ class SlidingTSTKSTest(unittest.TestCase):
         second = self.detector.detect(signal)
         self.assertEqual(first, second)
 
+    def test_training_only_threshold_calibration_is_finite(self) -> None:
+        rng = np.random.default_rng(23)
+        references = [rng.normal(size=512) for _ in range(8)]
+        threshold = calibrate_ks_threshold(references, self.detector, quantile=0.75)
+        self.assertTrue(np.isfinite(threshold))
+        self.assertGreater(threshold, 0.0)
+
 
 if __name__ == "__main__":
     unittest.main()
-

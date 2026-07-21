@@ -28,3 +28,11 @@ migrated into tested modules in small stages.
 Old CSV figures and model checkpoints are classified as `legacy_unverified` and
 will not be used as final manuscript evidence.
 
+## Initial CWRU protocol decision
+
+The in-domain baseline uses 40 source files: four loads for each of Normal,
+B007/B014/B021, IR007/IR014/IR021, and centered OR007/OR014/OR021. The 48 kHz
+and fan-end folders are excluded. Each source is limited to its first 120000
+samples because the normal recordings are two to four times longer than most
+fault records; this keeps the 10 classes balanced before the 60/20/20 temporal
+split. This limit is configuration, not an implicit loader side effect.

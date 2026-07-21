@@ -7,6 +7,9 @@ data:
   overlap_ratio: 0.5
   split_ratios: [0.6, 0.2, 0.2]
   split_before_windowing: true
+  cwru:
+    protocol: 12k_drive_end_centered_outer_race
+    source_sample_limit: 120000
 
 tstks:
   analysis_window_size: 256
@@ -15,7 +18,8 @@ tstks:
   branch_overlap_ratio: 0.5
   max_depth: 6
   candidate_step: 2
-  ks_threshold: 1.36
+  ks_threshold: 2.0
+  threshold_calibration_quantile: 0.95
   variance_threshold: 0.5
   branch_score: hybrid
   min_distance: 30
@@ -29,4 +33,3 @@ features:
     time: 10
     frequency_statistics: 5
     fft_bins: 100
-

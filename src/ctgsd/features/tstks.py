@@ -52,7 +52,7 @@ class TSTKSConfig:
     branch_overlap_ratio: float = 0.5
     max_depth: int = 6
     candidate_step: int = 2
-    ks_threshold: float = 1.36
+    ks_threshold: float = 2.0
     variance_threshold: float = 0.5
     branch_score: BranchScore = "hybrid"
     min_distance: int = 30
@@ -254,6 +254,45 @@ class SlidingTSTKSDetector:
             )
         return self._merge_candidates(candidates)
 
+    def candidate_scores(self, signal: Sequence[float]) -> FloatArray:
+        """Return one unthresholded best KS score per analysis window."""
+
+        values = np.asarray(signal, dtype=np.float64).reshape(-1)
+        if not np.isfinite(values).all():
+            raise ValueError("signal must contain only finite values")
+        scores: list[float] = []
+        width = self.config.analysis_window_size
+        for window_start in self._window_starts(values.size):
+            result = self._search_window(values, window_start, window_start + width)
+            if result is not None:
+                scores.append(result[0].ks)
+        return np.asarray(scores, dtype=np.float64)
+
+
+def calibrate_ks_threshold(
+    stationary_training_signals: Sequence[Sequence[float]],
+    detector: SlidingTSTKSDetector | None = None,
+    quantile: float = 0.95,
+) -> float:
+    """Calibrate a record-level max-score threshold on training-only signals.
+
+    Each input signal must be a stationary reference segment. Taking one maximum
+    per record accounts for the detector's internal window/candidate search more
+    appropriately than reusing a single pre-specified-split KS critical value.
+    """
+
+    if not 0.0 < quantile < 1.0:
+        raise ValueError("quantile must be strictly between zero and one")
+    active_detector = detector or SlidingTSTKSDetector()
+    maxima: list[float] = []
+    for signal in stationary_training_signals:
+        scores = active_detector.candidate_scores(signal)
+        if scores.size:
+            maxima.append(float(np.max(scores)))
+    if len(maxima) < 2:
+        raise ValueError("at least two usable stationary training signals are required")
+    return float(np.quantile(np.asarray(maxima), quantile, method="higher"))
+
 
 def _six_statistics(values: FloatArray) -> FloatArray:
     if values.size == 0:
@@ -301,4 +340,3 @@ def extract_tstks_features(
     if features.shape != (20,) or not np.isfinite(features).all():
         raise RuntimeError("TSTKS feature contract violated")
     return features
-

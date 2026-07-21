@@ -12,20 +12,25 @@ SplitName = Literal["train", "val", "test"]
 class PairedSampleMetadata:
     sample_id: str
     source_id: str
+    parent_source_id: str
     condition_id: str
     window_start: int
+    window_end: int
     split: SplitName
     label: int
     sampling_rate: int
     raw_path: str
 
     def __post_init__(self) -> None:
-        if not self.sample_id or not self.source_id or not self.condition_id:
-            raise ValueError("sample_id, source_id, and condition_id are required")
+        if not self.sample_id or not self.source_id or not self.parent_source_id:
+            raise ValueError("sample_id, source_id, and parent_source_id are required")
+        if not self.condition_id:
+            raise ValueError("condition_id is required")
         if self.window_start < 0:
             raise ValueError("window_start cannot be negative")
+        if self.window_end <= self.window_start:
+            raise ValueError("window_end must be greater than window_start")
         if self.label < 0:
             raise ValueError("label cannot be negative")
         if self.sampling_rate <= 0:
             raise ValueError("sampling_rate must be positive")
-
